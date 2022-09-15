@@ -1,0 +1,48 @@
+{
+  "name": "nft_holders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "api": "^4.5.1",
+    "axios": "^0.21.1",
+    "axios-cookiejar-support": "^2.0.3",
+    "babel-preset-env": "^1.7.0",
+    "big-number": "^2.0.0",
+    "body-parser": "^1.19.0",
+    "casper": "^0.1.1",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.0.32",
+    "etherscan": "^0.2.2",
+    "etherscan-api": "^10.0.9",
+    "express": "^4.17.1",
+    "formdata": "^0.10.4",
+    "fs": "^0.0.1-security",
+    "got": "^11.8.2",
+    "jquery": "^3.6.0",
+    "jsdom": "^18.1.0",
+    "moment": "^2.29.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3",
+    "ngrok": "^4.2.2",
+    "qs": "^6.10.1",
+    "sequelize": "^6.9.0",
+    "stream": "0.0.2",
+    "tough-cookie": "^4.0.0",
+    "web3": "^1.6.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.3.0"
+  }
+}
